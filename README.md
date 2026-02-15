@@ -7,5 +7,4 @@ I am completing my PhD at the Laboratory of Informatics Paris Descartes (LIPADE)
   - LinkedIn: https://www.linkedin.com/in/logan-servant/ 
 
 
-My information :
-  - Orcid:  https://orcid.org/0000-0001-8737-6972
+Visit [my website](https://logan-wilson.github.io) for more information!
